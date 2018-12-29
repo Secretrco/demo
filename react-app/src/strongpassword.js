@@ -1,0 +1,1 @@
+export const STRONG_PASSWORD = '!WVN4g*pQmw3tjft0^f$V$YXq';
