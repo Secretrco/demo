@@ -8,6 +8,7 @@ Thanks for having a look around. Checkout some of the pull requests and checks o
 - [Stripe Keys](https://github.com/Secretrco/demo/pull/5/files)
 - [Private Keys and Strong passwords](https://github.com/Secretrco/demo/pull/4/files)
 - [Dotenv Files](https://github.com/Secretrco/demo/pull/3/files)
+- [Commit Logs](https://github.com/Secretrco/demo/commits/master)
 
 ## Try it out
 
